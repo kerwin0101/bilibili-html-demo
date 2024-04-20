@@ -10,7 +10,7 @@ https://yyeexin.github.io/bilibili-html-demo/
 <!-- font-awesome -->
 <link href="https://cdn.bootcss.com/font-awesome/5.8.0/css/all.css" rel="stylesheet" />
 ```
-
+add auth
 ## 目录
 
 | 效果名               | 预览                                                                                                      | 源码                                                                                                                   |
